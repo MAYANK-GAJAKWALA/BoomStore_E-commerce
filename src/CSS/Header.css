@@ -1,0 +1,233 @@
+.navbar {
+  font-family: Ubuntu;
+  font-size: 14px;
+  line-height: 50px;
+  color: #555555;
+  padding: 0px 0px 0px 50px;
+}
+
+.BgColor {
+  background-color: #e1e1e1;
+}
+
+.rightTextPad {
+  padding-right: 50px;
+}
+
+.rightText {
+  font-family: Ubuntu;
+  font-size: 14px;
+  line-height: 50px;
+  color: #555555;
+}
+
+.ma {
+  height: 30px;
+  width: 30px;
+  border-radius: 100%;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+}
+
+.mmm {
+  font-size: 14px;
+  color: white;
+}
+
+.IconSection {
+  padding-top: 50px;
+}
+
+.IconLefPad {
+  padding-left: 10px;
+}
+
+.BoomLogo {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.LogoWidth {
+  width: 50%;
+}
+
+.IconRightPad {
+  padding-left: 10px;
+}
+
+.borderAround {
+  outline: 2px solid black;
+  outline-offset: 4px;
+  border: 1px solid black;
+}
+
+.NavText {
+  font-family: Ubuntu;
+  font-size: 16px;
+  letter-spacing: 0.8px;
+  color: #000000;
+  font-weight: 700;
+  list-style: none;
+  padding: 4px;
+}
+
+.BorderMargin {
+  margin-top: 50px;
+}
+
+.NavBorder {
+  height: 30px;
+}
+
+@media only screen and (max-width: 767.5px) {
+  .Navbar1 {
+    display: none;
+  }
+}
+
+.Barbutton {
+  font-size: 25px;
+}
+
+.Navbar2 {
+  padding-top: 20px;
+}
+
+.IconsPadding {
+  display: flex;
+  justify-content: center; /* Horizontally center the items */
+  align-items: center; /* Vertically center the items */
+}
+
+.TitleBG {
+  background: #d3b50d;
+}
+
+.MenuTitle {
+  font-family: Ubuntu;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 26px;
+  color: #000000;
+}
+
+.BarColor {
+  color: #000000;
+  font-weight: bold;
+  line-height: 26px;
+}
+
+.bottBOR {
+  border-bottom: 1px solid black;
+}
+
+.accordion-button:focus {
+  box-shadow: none;
+}
+
+.accordion-button {
+  text-decoration: none;
+  font-family: Ubuntu;
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: 0.8px;
+  line-height: 26px;
+  color: #000000;
+}
+
+.listTitle {
+  font-family: Ubuntu;
+  font-weight: 700;
+  font-size: 14px;
+  color: #000000;
+}
+
+.subList {
+  font-size: 16px;
+  letter-spacing: 0.8px;
+  color: #000000;
+  font-weight: 500;
+  margin-top: -10px;
+}
+
+.subListPad {
+  margin-top: -10px;
+}
+
+.listTitle2 {
+  margin-top: 30px;
+}
+
+.Home {
+  text-decoration: none;
+  font-family: Ubuntu;
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: 0.8px;
+  line-height: 26px;
+  color: #000000;
+  padding: 15px;
+}
+
+.HoverDetails {
+  background-color: whitesmoke;
+  margin-top: -10px;
+}
+
+@media only screen and (max-width: 576.5px) {
+  .NavText2 {
+    font-size: 12px;
+    line-height: 12px;
+    margin-left: -30px;
+  }
+}
+
+@media only screen and (max-width: 425.5px) {
+  .NavText2 {
+    font-size: 10px;
+  }
+}
+
+@media only screen and (max-width: 425.5px) {
+  .rightTextPad {
+    padding-right: 20px;
+  }
+}
+
+@media only screen and (max-width: 576.5px) {
+  .rightText {
+    font-size: 10px;
+    line-height: 50px;
+  }
+}
+
+@media only screen and (max-width: 425.5px) {
+  .rightTextPad {
+    padding-right: 20px;
+  }
+}
+
+@media only screen and (max-width: 375.5px) {
+  .NavText2 {
+    font-size: 9px;
+    line-height: 12px;
+    margin-left: -30px;
+  }
+}
+
+@media only screen and (max-width: 320.5px) {
+  .NavText2 {
+    font-size: 7px;
+    line-height: 12px;
+    margin-left: -30px;
+  }
+}
+
+@media only screen and (max-width: 320.5px) {
+  .rightText {
+    font-size: 8px;
+  }
+}

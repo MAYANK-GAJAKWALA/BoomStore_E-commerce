@@ -1,0 +1,110 @@
+.FooterMainDiv {
+  background-color: black;
+  margin-top: 50px;
+}
+
+.BoomLogoWhite {
+  width: auto;
+  padding-top: 50px;
+}
+
+.BoomWhiteText {
+  font-family: Ubuntu;
+  font-size: 14px;
+  line-height: 24px;
+  color: #e1e1e1;
+  margin-top: 30px;
+}
+
+.LocationIcon {
+  color: #e1e1e1;
+  font-size: 16px;
+  line-height: 10;
+  margin-top: 30px;
+}
+
+.AddreshWhiteText {
+  font-family: Ubuntu;
+  font-size: 14px;
+  line-height: 24px;
+  color: #e1e1e1;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+.InformationTitle {
+  font-family: Montserrat;
+  font-size: 18px;
+  line-height: 19.8px;
+  color: #ffffff;
+  padding-top: 50px;
+  font-weight: bold;
+}
+
+.InformationWhiteText {
+  font-family: Ubuntu;
+  font-size: 14px;
+  line-height: 24px;
+  color: #e1e1e1;
+  margin-top: 30px;
+}
+
+.InformationTextMargin {
+  font-family: Ubuntu;
+  font-size: 14px;
+  line-height: 24px;
+  color: #e1e1e1;
+  margin-top: -10px;
+}
+
+.searchInput:focus {
+  background-color: black;
+}
+
+.searchInput:focus {
+  box-shadow: none;
+}
+
+.searchInput::placeholder {
+  color: #e1e1e1;
+}
+
+.searchInput {
+  background-color: #000;
+  color: #fff;
+}
+
+.SearchBorder {
+  border: 1px solid white;
+}
+
+.Subscribe {
+  font-family: Montserrat;
+  font-size: 14px;
+  line-height: 30px;
+  color: #e1e1e1;
+  font-weight: bold;
+  text-align: center;
+}
+
+.PaymentImage {
+  padding: 80px 0px 30px 0px;
+}
+
+.PaymentAll {
+  width: 100%;
+}
+
+.copyRightText {
+  font-family: Ubuntu;
+  font-size: 15px;
+  line-height: 44px;
+  color: #e1e1e1;
+}
+
+.copyRightYellowText {
+  font-family: Ubuntu;
+  font-size: 15px;
+  line-height: 44px;
+  color: #d3b50d;
+}

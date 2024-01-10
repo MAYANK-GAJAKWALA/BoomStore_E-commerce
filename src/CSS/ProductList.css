@@ -1,0 +1,28 @@
+.ProductListMargin {
+  margin-top: 50px;
+  font-family: Ubuntu;
+  font-size: 24px;
+  line-height: 16px;
+  color: #000000;
+  font-weight: bold;
+}
+
+.vertical-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.ProductImage {
+  margin-top: 50px;
+}
+
+.ProductText {
+  font-family: Montserrat;
+  font-size: 14px;
+  line-height: 15.4px;
+  color: #000000;
+  font-weight: 700;
+  margin-top: 20px;
+}

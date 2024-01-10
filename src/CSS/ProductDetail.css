@@ -1,0 +1,209 @@
+.BreadCrumbMargin {
+  margin-top: 30px;
+  margin-left: -15px;
+}
+
+.BreadCrumbText {
+  font-family: Ubuntu;
+  font-size: 14px;
+  line-height: 17.5px;
+  color: #212529;
+  text-decoration: none;
+}
+
+.DetailMargin {
+  margin-top: 30px;
+}
+
+.detailTitle {
+  font-family: Montserrat;
+  font-size: 22px;
+  line-height: 24.2px;
+  color: #000000;
+  font-weight: 700;
+}
+
+.detailPrice {
+  font-family: Ubuntu;
+  font-size: 22px;
+  line-height: 24.2px;
+  color: #d3b50d;
+  font-weight: 500;
+}
+
+.detailDescription {
+  font-family: Ubuntu;
+  font-size: 15px;
+  line-height: 24px;
+  color: #555555;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+
+.dropdown {
+  margin-left: 50px;
+}
+
+.ParameterText {
+  font-family: Ubuntu;
+  font-size: 16px;
+  line-height: 32px;
+  color: #000000;
+  font-weight: 500;
+}
+
+.OrangeBox {
+  width: 30px;
+  height: 30px;
+  background-color: #d3b50d;
+  border: 2px solid black;
+  margin-left: 40px;
+}
+
+.BlueBox {
+  width: 30px;
+  height: 30px;
+  background-color: rgb(32, 200, 246);
+  margin-left: 10px;
+}
+
+.quantity-container {
+  display: flex;
+  align-items: center;
+  margin-left: 15px;
+}
+
+.quantity-button {
+  width: 30px;
+  height: 28px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+.quantity-input {
+  width: 40px;
+  text-align: center;
+  border: 1px solid #ccc;
+}
+
+.AddToCart {
+  margin-left: 30px;
+}
+
+.CartBorder {
+  border: 1px solid black;
+  outline: 2px solid black;
+  outline-offset: 3px;
+}
+
+.AddToCartText {
+  font-family: Ubuntu;
+  font-size: 16px;
+  line-height: 17.5 px;
+  color: #000000;
+  font-weight: 700;
+}
+
+.InstockSign {
+  margin-left: 10px;
+}
+
+.InstockText {
+  margin-left: 10px;
+  font-family: Ubuntu;
+  font-size: 15px;
+  line-height: 17.5 px;
+  color: #555555;
+  font-weight: 700;
+}
+
+.ThreeIcon {
+  margin-left: 30px;
+}
+
+.outer {
+  height: 40px;
+  width: 40px;
+  border-radius: 100%;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+}
+
+.inner {
+  font-size: 18px;
+  color: white;
+}
+
+.IconLefPadThree {
+  margin-left: 20px;
+}
+
+.reviewBox {
+  float: left;
+  background-color: #6b868f;
+  padding: 10px 10px;
+  border-radius: 3px;
+  box-shadow: 0.5px 0.5px 2px #6b868f;
+  margin-top: 20px;
+}
+
+.ReviewText {
+  font-family: Ubuntu;
+  font-size: 14px;
+  line-height: 17.5 px;
+  color: #ffffff;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.DescriptionSection {
+  margin-top: 80px;
+}
+
+.DesText {
+  font-family: Ubuntu;
+  font-size: 18px;
+  line-height: 17.5 px;
+  color: #d3b50d;
+  font-weight: 700;
+}
+
+.PDText {
+  font-family: Ubuntu;
+  font-size: 18px;
+  line-height: 17.5 px;
+  color: #000000;
+  font-weight: 700;
+}
+
+.Des2Text {
+  padding: 20px;
+}
+
+.CommentSec {
+  margin-top: 20px;
+}
+
+.CommentText {
+  margin-left: 10px;
+  font-family: Ubuntu;
+  font-size: 14px;
+  line-height: 17.5 px;
+  color: #232323;
+}
+
+.MessageIcon {
+  font-size: 14px;
+}
+
+.BreadCrumbTextHome {
+  color: #6c6c6c;
+  text-decoration: none;
+}

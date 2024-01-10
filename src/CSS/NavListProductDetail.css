@@ -1,0 +1,57 @@
+.BreadcrumbNav {
+  margin-top: 20px;
+}
+
+.MainSideTitle {
+  background-color: #f6f6f6;
+  border: 1px solid #e7e7e7;
+}
+
+.MainSideText {
+  font-family: Ubuntu;
+  font-size: 15px;
+  color: #414141;
+  font-weight: 700;
+  text-align: center;
+  margin: 10px 0px;
+}
+
+.ListSideTitle {
+  font-family: Montserrat;
+  font-size: 22px;
+  line-height: 22px;
+  color: #000000;
+  font-weight: 700;
+  padding-left: 10px;
+}
+
+.FilterIcon {
+  padding-left: 15px;
+}
+
+.SortByText {
+  float: right;
+  padding: 10px 10px 10px 0px;
+  font-family: Ubuntu;
+  font-size: 14px;
+  line-height: 17.5px;
+  color: #999999;
+}
+
+.SelectLiabray {
+  font-size: 14px;
+  line-height: 25px;
+  color: #141414;
+  font-family: poppins;
+  width: 150px;
+  padding: 10px 0px;
+  font-family: Ubuntu;
+  font-size: 14px;
+  line-height: 17.5px;
+  color: #999999;
+  border: 1px solid #e7e7e7;
+}
+
+.NavProductListMargin {
+  margin-top: 100px;
+}

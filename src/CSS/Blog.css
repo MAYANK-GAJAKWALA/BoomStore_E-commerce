@@ -1,0 +1,128 @@
+/* .product_one_border {
+  border: 1px solid #000;
+  margin-bottom: 3px;
+  max-width: 40%;
+  float: left;
+  width: 100%;
+}
+
+.product_two_border {
+  border: 1px solid #000;
+  margin-bottom: 3px;
+  max-width: 40%;
+  float: right;
+  width: 100%;
+}
+
+.blogFloat {
+  float: left;
+  max-width: 20%;
+  width: 100%;
+} */
+
+.BlogTitle {
+  font-family: Ubuntu;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
+  font-weight: 600;
+  margin-top: 20px;
+}
+
+.BlogDescription {
+  font-family: Ubuntu;
+  font-size: 14px;
+  line-height: 24px;
+  color: #555555;
+  margin-top: -10px;
+  text-align: justify;
+}
+
+.centerBox {
+  /* background-color: rgba(0, 0, 0, 0.78);
+  display: block;
+  float: none;
+  margin: 0 auto;
+  max-width: 90%;
+  padding: 60px;
+  width: 840px; */
+  background-color: rgba(0, 0, 0, 0.78);
+  display: block;
+  float: none;
+  margin: 0 auto;
+  max-width: 90%;
+  padding: 60px 10%;
+  position: relative;
+  width: 840px;
+}
+
+.MainDiv {
+  position: relative;
+  display: grid;
+  place-items: center;
+}
+
+.CenterBoxTitle {
+  color: #fff;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 18px;
+  line-height: 18px;
+  font-weight: bold;
+}
+
+.CenterDivDescription {
+  color: #fff;
+  font-family: Ubuntu;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+}
+
+.DiamondGate {
+  color: #fff;
+  font-family: Ubuntu;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.BrandLogoMargin {
+  margin-top: 80px;
+}
+
+.BrandLogoBorder {
+  border: 3px solid black;
+  padding: 8px;
+}
+
+.BrandLogoInnerBorder {
+  border: 1px solid black;
+  padding: 8px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+
+.mybgImg {
+  background-image: url("../Images/wgb-home1.jpg");
+  padding: 125px 135px;
+  overflow: hidden;
+  width: 100%;
+  background-position: center center;
+}
+
+@media only screen and (max-width: 768.5px) {
+  .mybgImg {
+    padding: 70px 1px;
+  }
+}
+
+@media only screen and (max-width: 1024.5px) {
+  .mybgImg {
+    padding: 70px 1px;
+  }
+}
